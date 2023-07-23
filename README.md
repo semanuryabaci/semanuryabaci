@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@semanuryabaci)
 
-- 📫 How to reach me **semanuryabaci71@gmail.com**
+- 📫 How to reach me semanuryabaci71@gmail.com
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/semanuryabaci/)
 
