@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Semanur.</h1>
 - 🌱 I’m currently learning **React Native and JavaScript.**
 
-- 📝 I regularly write articles on [https://medium.com/@semanuryabaci](https://medium.com/@semanuryabaci)
+- 📝 I regularly write articles on [@semanuryabaci](https://medium.com/@semanuryabaci)
 
 - 📫 How to reach me **semanuryabaci71@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/semanuryabaci/](https://www.linkedin.com/in/semanuryabaci/)
+- 📄 Know about my experiences [semanuryabaci](https://www.linkedin.com/in/semanuryabaci/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
